@@ -1,0 +1,4 @@
+[autorun]
+OPEN=setup.EXE
+ICON=setup.EXE,0
+

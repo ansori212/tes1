@@ -1,0 +1,12 @@
+CircuitMaker 6.02a Pro
+Released in 1998 by MicroCode Engineering
+For Windows 3.1 with Win32s and 9x/NT
+
+CircuitMaker is an easy-to-use schematic design and simulation tool.
+This product was discontinued in 2000 after being bought out by
+Altium, and is not related to the current software of a similar name.
+
+This version is a Win32s application. It is compatible with Windows
+3.1 with Win32s and Windows 9x/NT.
+
+CD key : 111158017 
